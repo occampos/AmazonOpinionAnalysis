@@ -1,1 +1,1 @@
-# AmazonOpinionAnalysis
+# AmazonSentimentAnalysis
